@@ -1,8 +1,8 @@
 @charset "UTF-8";
 
 /* =========  Añade Custom properties y estilos base */
-@import url('https://github.com/acontenido1unidev-glitch/bachillerato_sep/blob/22648364854e283204fe13384fb6a3360b5f38dc/CSS_Propiedades.css');
-@import url('https://github.com/acontenido1unidev-glitch/bachillerato_sep/blob/22648364854e283204fe13384fb6a3360b5f38dc/CSS_Layout.css');
+@import url('https://raw.githubusercontent.com/acontenido1unidev-glitch/bachillerato_sep/refs/heads/main/CSS_Propiedades.css');
+@import url('https://raw.githubusercontent.com/acontenido1unidev-glitch/bachillerato_sep/refs/heads/main/CSS_Layout.css');
 :root {
 
   /*  Colores por nivel:
@@ -10,5 +10,6 @@
   */
 
   --emphasisColor: var(--prg_bachsep);
+
 
 }
