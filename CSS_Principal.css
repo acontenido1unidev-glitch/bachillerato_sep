@@ -1,8 +1,8 @@
 @charset "UTF-8";
 
 /* =========  Añade Custom properties y estilos base */
-@import url('https://raw.githubusercontent.com/acontenido1unidev-glitch/bachillerato_sep/refs/heads/main/CSS_Propiedades.css');
-@import url('https://raw.githubusercontent.com/acontenido1unidev-glitch/bachillerato_sep/refs/heads/main/CSS_Layout.css');
+@import url('https://acontenido1unidev-glitch.github.io/bachillerato_sep//CSS_Propiedades.css');
+@import url('https://acontenido1unidev-glitch.github.io/bachillerato_sep/CSS_Layout.css');
 :root {
 
   /*  Colores por nivel:
@@ -13,3 +13,4 @@
 
 
 }
+
