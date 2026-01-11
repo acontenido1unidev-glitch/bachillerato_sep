@@ -12,7 +12,7 @@
   --grayScale-200: #D9D8D6;
   --grayScale-300: #D9D8D6;
   --grayScale-400: #D9D8D6;
-  --grayScale-800: #D9D8D6;
+  --grayScale-800: #0B2A4A;
 
   /* ============ Estilos generales */
   --bnrIntroHeight: 200px;
@@ -27,4 +27,5 @@
   --prg_bachsep:: #0B2A4A;
 
 }
+
 
