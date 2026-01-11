@@ -590,8 +590,7 @@ pre .strongGreen{
 
   .bannerHeader .nav .nav-item .nav-link:hover,
   .bannerHeader .nav .nav-item .nav-link.active {
-    color: #0B2A4A;
-    /* background-color: var(--emphasisColor) !important; */
+    color: #fff;
   }
 
   /* -------- Submenú unidad  */
@@ -1028,6 +1027,7 @@ pre .strongGreen{
 
 
 }
+
 
 
 
