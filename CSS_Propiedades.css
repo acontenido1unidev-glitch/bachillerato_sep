@@ -7,12 +7,12 @@
   --brandColor-03: #DD8555;
 
   /* ============ Escala de grises */
-  --grayScale-050: #F8F9FA;
-  --grayScale-100: #EBEDEF;
-  --grayScale-200: #DDE1E4;
-  --grayScale-300: #CED3D8;
-  --grayScale-400: #646d74;
-  --grayScale-800: #3B3F44;
+  --grayScale-050: #7A97AB;
+  --grayScale-100: #7A97AB;
+  --grayScale-200: #7A97AB;
+  --grayScale-300: #7A97AB;
+  --grayScale-400: #7A97AB;
+  --grayScale-800: #7A97AB;
 
   /* ============ Estilos generales */
   --bnrIntroHeight: 200px;
@@ -25,4 +25,5 @@
 
   /*  Colores por nivel */
   --prg_bachsep:: #0B2A4A;
+
 }
