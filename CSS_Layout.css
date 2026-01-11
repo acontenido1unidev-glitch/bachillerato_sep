@@ -590,7 +590,7 @@ pre .strongGreen{
 
   .bannerHeader .nav .nav-item .nav-link:hover,
   .bannerHeader .nav .nav-item .nav-link.active {
-    color: #fff;
+    color: #0B2A4A;
     background-color: var(--emphasisColor) !important;
   }
 
@@ -1028,4 +1028,5 @@ pre .strongGreen{
 
 
 }
+
 
